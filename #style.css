@@ -1,0 +1,22 @@
+h1 {
+
+    color: red;
+}
+
+p {
+
+  color: blue;
+
+}
+
+.color-verde {
+
+  color: green;
+  background-color: lightslategrey;
+}
+
+#primer-parrafo {
+
+  color: purple;
+  background-color: lightgrey;
+}
