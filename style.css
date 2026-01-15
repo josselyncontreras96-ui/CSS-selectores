@@ -7,6 +7,14 @@ h2 {
   color: brown;
   }
 
-  #texto\.limon {
+  #texto-limon {
     color: lemonchiffon;
+  }
+
+  .destacado {
+    color: blue;
+    font-weight: bold;
+  }
+  #titulo-principal {
+    text-decoration: underline;
   }
