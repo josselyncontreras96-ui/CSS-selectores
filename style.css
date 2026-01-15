@@ -18,3 +18,10 @@ h2 {
   #titulo-principal {
     text-decoration: underline;
   }
+
+  body {
+    background-image: url("img/16-2500x1667.jpg.jpg");
+    background-size: cover;
+  }
+
+  
